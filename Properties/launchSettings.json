@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XMLConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "--inputfile people.csv\r\n--outputfilename people.xml"
+    }
+  }
+}
