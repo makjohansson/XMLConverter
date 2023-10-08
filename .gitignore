@@ -234,3 +234,5 @@ _Pvt_Extensions
 # Python
 **/__pycache__/
 temp_dir_paths.txt
+
+.DS_Store
